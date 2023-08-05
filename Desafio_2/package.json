@@ -1,0 +1,20 @@
+{
+  "name": "desafio_clase2",
+  "version": "1.0.0",
+  "description": "Desafio 1 Backend Coderhouse",
+  "main": "Main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LBusalacchi620/backend47285_lucianobusalacchi1.git"
+  },
+  "author": "Luciano Busalacchi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LBusalacchi620/backend47285_lucianobusalacchi1/issues"
+  },
+  "homepage": "https://github.com/LBusalacchi620/backend47285_lucianobusalacchi1#readme"
+}
