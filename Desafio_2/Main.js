@@ -12,7 +12,7 @@ const productoNuevo1 = new Product(
   5
 );
 const productoNuevo2 = new Product(
-  "Spped",
+  "Speed",
   "Bebida energizante",
   400,
   "https://res.cloudinary.com/dxf8ebmi7/image/upload/v1679363369/speed_hyctgz.jpg",
